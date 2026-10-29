@@ -4,7 +4,8 @@
 ---
 
 ### Identifiers & Official Links
-- **ORCID iD:** [0009-0004-9269-3912](https:&#47;&#47;orcid.org&#47;0009-0004-9269-3912)
+- **ORCID iD:** [0009-0004-9269-3912](https:&#47;&#47;orcid.org&#47;0009-0004-9269-3912)- **Academia.edu:** [https://independent.academia.edu/DrMetal1](https://independent.academia.edu/DrMetal1)
+- 
 - **Official Zenodo (CERN) DOI:** [10.5281/zenodo.23758690](https:&#47;&#47;doi.org&#47;10.5281&#47;zenodo.23758690)
 - **LinkedIn:** [https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;](https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;)
 - **X (Twitter):** [https:&#47;&#47;x.com&#47;Dr_Metal](https:&#47;&#47;x.com&#47;Dr_Metal)
