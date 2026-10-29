@@ -8,7 +8,11 @@
 - **Official Zenodo (CERN) DOI:** [10.5281/zenodo.23758690](https:&#47;&#47;doi.org&#47;10.5281&#47;zenodo.23758690)
 - **LinkedIn:** [https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;](https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;)
 - **X (Twitter):** [https:&#47;&#47;x.com&#47;Dr_Metal](https:&#47;&#47;x.com&#47;Dr_Metal)
-
+- **Second Zenodo (CERN) DOI:** [10.5281/zenodo.23762055](https://zenodo.org/records/23762055)
+- **Second Research Repository:** [https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems)
+- **Official GitHub Pages Research Websites:**
+  - [https://sharr666.github.io/llm-security-and-streaming-benchmarks/](https://sharr666.github.io/llm-security-and-streaming-benchmarks/)
+    - [https://sharr666.github.io/declarative-prompt-compilation-and-agentic-systems/](https://sharr666.github.io/declarative-prompt-compilation-and-agentic-systems/)
 ---
 
 ### Published Works & Releases
