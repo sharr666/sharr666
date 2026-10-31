@@ -4,16 +4,17 @@
 ---
 
 ### Identifiers & Official Links
-- **ORCID iD:** [0009-0004-9269-3912](https:&#47;&#47;orcid.org&#47;0009-0004-9269-3912)- **Academia.edu:** [https://independent.academia.edu/DrMetal1](https://independent.academia.edu/DrMetal1)
-- 
+- **ORCID iD:** [0009-0004-9269-3912](https:&#47;&#47;orcid.org&#47;0009-0004-9269-3912)
+- **Academia.edu Profile:** [https:&#47;&#47;independent.academia.edu&#47;DrMetal1](https:&#47;&#47;independent.academia.edu&#47;DrMetal1)
 - **Official Zenodo (CERN) DOI:** [10.5281/zenodo.23758690](https:&#47;&#47;doi.org&#47;10.5281&#47;zenodo.23758690)
 - **LinkedIn:** [https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;](https:&#47;&#47;www.linkedin.com&#47;in&#47;dr-metal&#47;)
 - **X (Twitter):** [https:&#47;&#47;x.com&#47;Dr_Metal](https:&#47;&#47;x.com&#47;Dr_Metal)
-- **Second Zenodo (CERN) DOI:** [10.5281/zenodo.23762055](https://zenodo.org/records/23762055)
-- **Second Research Repository:** [https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems)
+- **Second Zenodo (CERN) DOI:** [10.5281/zenodo.23762055](https:&#47;&#47;zenodo.org&#47;records&#47;23762055)
+- **Second Research Repository:** [https:&#47;&#47;github.com&#47;sharr666&#47;declarative-prompt-compilation-and-agentic-systems](https:&#47;&#47;github.com&#47;sharr666&#47;declarative-prompt-compilation-and-agentic-systems)
 - **Official GitHub Pages Research Websites:**
-  - [https://sharr666.github.io/llm-security-and-streaming-benchmarks/](https://sharr666.github.io/llm-security-and-streaming-benchmarks/)
-    - [https://sharr666.github.io/declarative-prompt-compilation-and-agentic-systems/](https://sharr666.github.io/declarative-prompt-compilation-and-agentic-systems/)
+  - [https:&#47;&#47;sharr666.github.io&#47;llm-security-and-streaming-benchmarks&#47;](https:&#47;&#47;sharr666.github.io&#47;llm-security-and-streaming-benchmarks&#47;)
+  - [https:&#47;&#47;sharr666.github.io&#47;declarative-prompt-compilation-and-agentic-systems&#47;](https:&#47;&#47;sharr666.github.io&#47;declarative-prompt-compilation-and-agentic-systems&#47;)
+
 ---
 
 ### Published Works & Releases
@@ -33,7 +34,17 @@
    6-level taxonomy of LLM systems engineering (`PICCO`, `COAST`, `CARE`, `GCT`, `KERNEL`, `DSPy`, `EvoPrompt`, `Promptbreeder`, `OPRO`, `TextGrad`, `ProTeGi`, `MCP`) and analysis of 5 cognitive memory architecture patterns.
 
 3. **Constant-Memory O(1) High-Throughput Synthetic Corpus Streaming Pipelines**
-   Four parallel big dataset generation engineering engines with zero extra RAM consumption including compiled C++ (`-O3 + zlib`) engine for 6GB shards, columnar PyArrow Parquet (`Snappy`) engine for 80MB shards, OS-level POSIX pipeline (`POSIX awk + split -C 666m`), and Python streamer for 100M–500M record archives.
+   Four parallel big dataset generation engineering engines with zero extra RAM consumption including compiled C++ (`-O3 + zlib`) engine for 6GB shards, columnar PyArrow Parquet (`Snappy`) engine for 80MB shards, OS-level POSIX pipeline (`POSIX awk + split -C 666m`), and Python streamer for 100M-500M record archives.
 
 4. **Applied AI Studio Systems & Quantitative Analytical Engines**
    Academic & audio research applets (*AcademicCast*, *EchoScript*, *Avago*) and Python vector quantitative analysis engine (Volume Profile POC/VAH/VAL, ATR, RSI, MACD).
+
+---
+
+### Verified Linux VM Benchmarks
+
+| Benchmark Metric / Engine | Result | Details / Performance |
+| --- | --- | --- |
+| 6-Layer Omega-Stack | Precision/Recall/F1 = 1.0000 | 200 multi-doc test cases, 0.1016 ms/query latency |
+| Batched CSV Streamer | 127,373 rows/sec | 3.07 MB Peak Heap RAM |
+| Parquet Snappy Streamer | 87.8% compression | 27.53 MB Peak Heap RAM |
