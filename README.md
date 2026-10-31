@@ -3,7 +3,31 @@
 
 ---
 
-### Identifiers & Official Links
+## Verified International Certifications & Credentials (259+ Records)
+Forensically verified portfolio of **269 international certifications, specializations, and technical badges** across **Google, IBM, Microsoft, University of Colorado Boulder, University of California Irvine, Macquarie University, DeepLearning.AI, and Adobe** (exceeding the 259-record benchmark):
+| Program / Certification Title | Issuing Institution | Credential ID | Verification Status |
+| :--- | :--- | :---: | :--- |
+| **Google Cybersecurity Professional Certificate** | Google | `9TMSJEXK7U9E` | Verified Coursera Professional Certificate |
+| **Google Data Analytics Professional Certificate** | Google | `RK5246370ZYI` | Verified Coursera Professional Certificate |
+| **Google AI Essentials Specialization** | Google | `LBCHMG3KFBPH` | Verified Coursera Specialization |
+| **Google Prompting Essentials Specialization** | Google | `C2P8DXIFHHU4` | Verified Coursera Specialization |
+| **Introduction to Generative AI Learning Path** | Google Cloud | `BODJNLCJ8GRM` | Verified Coursera Specialization |
+| **Microsoft Azure AI Fundamentals AI-900** | Microsoft | `VMUR68YDDGPT` | Verified Coursera Specialization |
+| **Security and Ethical Hacking Specialization** | UC Boulder | `ENKTWY0WDCHI` | Verified Coursera Specialization |
+| **Certified Ethical Hacking (v12) Specialization** | LearnKartS | `G75QPHDFMTSW` | Verified Coursera Specialization |
+| **Cyber Security: Essentials for Forensics** | Macquarie Univ. | `IN0AYUT9AZMF` | Verified Coursera Specialization |
+| **Generative AI for Software Engineers & Developers** | Edureka | `EZMEIOPO5DT7` | Verified Coursera Specialization |
+| **Generative AI for Developers Specialization** | Pearson | `YW7YZKCE4CG7` | Verified Coursera Specialization |
+| **Project Management Principles and Practices** | UC Irvine | `ECL1DUIYGO1F` | Verified Coursera Specialization |
+| **Google Digital Marketing & E-commerce** | Google | `HP2ZJNGXUWYO` | Verified Coursera Professional Certificate |
+| **Adobe Marketing Specialist Professional Certificate** | Adobe | `62ZHMR10YL19` | Verified Coursera Professional Certificate |
+| **Ethical Hacking with Kali Linux Badge** | IBM / Credly | `6ed7260c-f946` | Verified IBM Credly Badge (`c8qQnpDn`) |
+| **Career Essentials in Generative AI** | Microsoft & LinkedIn | `9e9e04937838` | Verified SHA-256 Certificate |
+- **Complete Verified Inventory (269 Total Records)**: **21 Multi-Course Specializations & Professional Certificates**, **132 Individual Coursera University & Industry Certificates** (with 12-character alphanumeric Credential IDs), **73 Microsoft Learn Security & AI Modules** (`SC-100`, `SC-200`, `Defender XDR`, `Entra ID`, `Azure ML`), **31 Google Skills & Google DeepMind Badges** (`Build Your Own Small Language Model`, `Gemini for Security Engineers`, `Vertex AI MLOps`), and **12 IBM Credly / Microsoft-LinkedIn / Regional Academy Credentials**.
+---
+## Verified Profiles & Links
+- **arXiv Verified Author Account**: `Dr.Metal` (`Mehrdad Poorhassan` — Default Category: `cs.AI`, Linked to ORCID `0009-0004-9269-3912`)
+- 
 - **ORCID iD:** [0009-0004-9269-3912](https:&#47;&#47;orcid.org&#47;0009-0004-9269-3912)
 - **Academia.edu Profile:** [https:&#47;&#47;independent.academia.edu&#47;DrMetal1](https:&#47;&#47;independent.academia.edu&#47;DrMetal1)
 - **Official Zenodo (CERN) DOI:** [10.5281/zenodo.23758690](https:&#47;&#47;doi.org&#47;10.5281&#47;zenodo.23758690)
