@@ -1,6 +1,15 @@
 # Mehrdad Poorhassan (Dr. Metal)
 **Independent AI Systems Architect & Large Language Model (LLM) Security Researcher**
-
+## Academic & Professional Profiles
+- **ORCID iD**: `0009-0004-9269-3912`
+- **arXiv Verified Author**: `Dr.Metal` (`cs.AI`, `cs.CL`, `cs.CR`)
+- **American Chemical Society (ACS)**: `Community Associate (ID: dr.metal)`
+- **CODATA Data Science Journal**: `Registered Researcher (ID: sharr666)`
+- **CERN / Zenodo DOIs**: `10.5281/zenodo.23758690` and `10.5281/zenodo.23762055`
+- **LinkedIn**: `in/dr-metal`
+- **X (Twitter)**: `@Dr_Metal`
+- **Academia.edu**: `DrMetal1`
+- **Philoprompts-v1.0 Monograph**: `PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md`
 ---
 
 ## Verified International Certifications & Credentials (259+ Records)
