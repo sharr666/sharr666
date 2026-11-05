@@ -10,7 +10,7 @@
 |---|---|---|
 | **LLM Security Engineering** | [llm-security-and-streaming-benchmarks](https://github.com/sharr666/llm-security-and-streaming-benchmarks) | Omega-Stack v2.2 heuristic RAG quarantine prototype; runtime-injected HMAC verification; pattern-based L1-L4 detectors; 20 hand-authored smoke fixtures. The reported fixture score is not a generalization or production-security claim. Streaming examples are separate; the Parquet sample materializes each shard in memory. |
 | **Declarative Prompt Systems** | [declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems) | Typed AST validation, JSON-quoted canonical prompt IR, full SHA-256 fingerprint, exact-record split overlap checks, and bounded in-process memory stores. Five profile labels currently share one prompt grammar; semantic leakage and general contradiction reasoning are not solved. |
-| **Quantitative Systems** | [autonomous-crypto-futures-agent](https://github.com/sharr666/autonomous-crypto-futures-agent) | OHLCV indicators, approximate bar-range Volume Profile, and a one-bar paper simulation with next-bar-open entry, ATR stop, position fraction and drawdown control. The bundled run uses synthetic data and is not evidence of market performance. |
+
 
 ## Identifiers and profiles
 
