@@ -1,42 +1,37 @@
-# Mehrdad Poorhassan (`Dr. Metal`)
+# Mehrdad Poorhassan (Dr. Metal)
 ### AI Systems Architecture & LLM Security Engineering
 *Research · Architecture · Implementation · Reproducible Validation*
 
 ---
 
-## 1. Unified Engineering & Research Pillars
+## Research and engineering pillars
 
-| Pillar | Repository | Core Implementation & Reproducible Validation | Archival DOI / License |
-| :--- | :--- | :--- | :--- |
-| **LLM Security Engineering** *(Primary)* | **`llm-security-and-streaming-benchmarks`** | **Omega-Stack v2.0** (`L0` SHA-256 provenance, `L1` imperative regex, `L2` boundary-aware split-payload tracker, `L3` authority spoofing, `L4` entropy/non-BMP density, `L5` fail-closed aggregator; `F1 = 0.9000` on 20-window benchmark), bounded-memory $O(B)$ corpus streamers, and **Philoprompts-v1.0**. | `DOI: 10.5281/zenodo.23758690`<br>`Apache-2.0` / `CC BY 4.0` |
-| **Declarative Prompt Engineering** *(Primary)* | **`declarative-prompt-compilation-and-agentic-systems`** | **Declarative Compiler v2.0** (`parse_to_ast` -> `validate_semantics_and_types` -> `lower_to_ir`), leak-free disjoint `train/val/test` APO optimizer, and **5-Tier Cognitive Memory** with active Tier-5 policy override. | `DOI: 10.5281/zenodo.23762055`<br>`Apache-2.0` / `CC BY 4.0` |
-| **Quantitative Systems** *(Applied Branch)* | **`autonomous-crypto-futures-agent`** | **Quantitative Market Analysis Engine v2.0** (`EXECUTION_MODE=SIGNAL_ONLY_PAPER` enforced), canonical SMA-seeded Wilder's RMA (`ATR`/`RSI`), bar-range uniform Volume Profile (`POC`/`VAH`/`VAL`), and walk-forward paper backtester. | `Apache-2.0` |
+| Pillar | Repository | Current implementation and evidence |
+|---|---|---|
+| **LLM Security Engineering** | [llm-security-and-streaming-benchmarks](https://github.com/sharr666/llm-security-and-streaming-benchmarks) | Omega-Stack v2.2 heuristic RAG quarantine prototype; runtime-injected HMAC verification; pattern-based L1-L4 detectors; 20 hand-authored smoke fixtures. The reported fixture score is not a generalization or production-security claim. Streaming examples are separate; the Parquet sample materializes each shard in memory. |
+| **Declarative Prompt Systems** | [declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems) | Typed AST validation, JSON-quoted canonical prompt IR, full SHA-256 fingerprint, exact-record split overlap checks, and bounded in-process memory stores. Five profile labels currently share one prompt grammar; semantic leakage and general contradiction reasoning are not solved. |
+| **Quantitative Systems** | [autonomous-crypto-futures-agent](https://github.com/sharr666/autonomous-crypto-futures-agent) | OHLCV indicators, approximate bar-range Volume Profile, and a one-bar paper simulation with next-bar-open entry, ATR stop, position fraction and drawdown control. The bundled run uses synthetic data and is not evidence of market performance. |
 
----
+## Identifiers and profiles
 
-## 2. Verified Identifiers & Scientific Profiles
-- **ORCID iD:** `0009-0004-9269-3912`
-- **CERN / Zenodo DOIs:** `10.5281/zenodo.23758690` · `10.5281/zenodo.23762055`
-- **Registered Author / Society Accounts:** arXiv (`Dr.Metal` — `cs.AI`, `cs.CL`, `cs.CR`) · American Chemical Society (`dr.metal` — Community Associate) · CODATA Data Science Journal (`sharr666`)
-- **Professional Networks:** LinkedIn (`in/dr-metal`) · X (`@Dr_Metal`) · Academia (`DrMetal1`) · Kaggle (`drmetal`) · Hugging Face (`@Dr-Metal`)
+The following identifiers and external profile names are listed by the account owner. Their issuer-side validity and current status have not been independently audited in this repository review.
 
----
+- ORCID: `0009-0004-9269-3912`
+- Zenodo records listed in project documentation: `10.5281/zenodo.23758690` and `10.5281/zenodo.23762055`
+- Professional profiles: [LinkedIn](https://www.linkedin.com/in/dr-metal) · [Credly](https://credly.com/users/mehrdad-poorhassan)
 
-## 3. Preprints & Technical Reports
-- **[Preprint / Technical Report]** *Isolated Multi-Document Query Logic and Defense-in-Depth Architecture Against Distributed Indirect Prompt Injection in Agentic Workflows* (Oct 2026) — **DOI:** `10.5281/zenodo.23758690` (`papers/OVERVIEW.md` in `llm-security-and-streaming-benchmarks`)
-- **[Preprint / Technical Report]** *From Heuristic Prompting to Declarative Compilation and Multi-Agent Cognitive Orchestration: A Systematic Survey* (Oct 2026) — **DOI:** `10.5281/zenodo.23762055` (`declarative-prompt-compilation-and-agentic-systems`)
-- **[Preprint / Technical Monograph]** *Self-Intertwined Deconstructed Philoprompts: Morphemic Steganography, Non-BMP Ancient Script Tokenization, and Out-of-Distribution Alignment Stress-Testing in LLMs* (`Philoprompts-v1.0`, Nov 2026) — `PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md` in `llm-security-and-streaming-benchmarks`
+## Credentials and learning records
 
----
+The credential ledger reports **269 recorded entries** across four evidence categories:
+- 21 professional certificates and specializations
+- 113 individual course/credential records
+- 104 modular course completions
+- 31 platform skill badges
 
-## 4. Credentials & Learning Portfolio (`269` Total Records Across 4 Evidentiary Tiers)
-Rather than grouping all records under a single label, all `269` documented records are classified by verification type in [`CREDENTIALS.md`](./CREDENTIALS.md):
+These are ledger counts, not an independently verified count of unique credentials. The accompanying 122-entry index includes cross-tier/master-certificate overlap; it must not be interpreted as 122 unique Tier-2 credentials. See [CREDENTIALS.md](./CREDENTIALS.md) for the itemized records and verification identifiers.
 
-| Evidentiary Tier | Category | Count | Selected Core Examples (with Coursera / Issuer Credential ID) |
-| :--- | :--- | :---: | :--- |
-| **Tier 1** | **Professional Certificates & Specializations** | `21` | **Google Cybersecurity** (`9TMSJEXK7U9E`) · **Google AI Essentials** (`LBCHMG3KFBPH`) · **Google Prompting Essentials** (`C2P8DXIFHHU4`) · **Google Cloud GenAI Path** (`BODJNLCJ8GRM`) · **Microsoft Azure AI-900 Prep** (`VMUR68YDDGPT`) · **CU Boulder Security & Ethical Hacking** (`ENKTWY0WDCHI`) · **Google Data Analytics** (`RK5246370ZYI`) |
-| **Tier 2** | **Individual Course Credential IDs Recorded** | `113` | `101` individual Coursera course IDs (e.g., *Security & Ethical Hacking: Attacking Web and AI Systems* `A6IL4U0RZXCQ`, *Introduction to LLMs* `EBMZ66LGMDC3`, *Automate Cybersecurity Tasks with Python* `JOKBSCMZ5XHZ`) + `12` LinkedIn Learning / Credly / Academy hashes |
-| **Tier 3** | **Modular Course Completions** | `104` | `73` Microsoft Learn Security & AI modules (`M-001`..`M-073`: `SC-100`, `SC-200`, `AI-900`, `Defender XDR`) + `31` Coursera transcript completions |
-| **Tier 4** | **Platform Skill Badges** | `31` | `31` Google Cloud Skills Boost & Google DeepMind badges (`G-001`..`G-031`: *Small Language Models*, *Vertex AI MLOps*, *Gemini Security*) |
+## Reproducibility and limitations
 
-👉 **Complete Itemized `122`-Row Credential ID Table & 4-Tier Breakdown:** [`CREDENTIALS.md`](./CREDENTIALS.md)
+Each engineering repository includes a GitHub Actions workflow. Passing CI means the configured syntax, unit and smoke tests passed at that commit; it does not constitute independent scientific validation, security certification, or production readiness.
+
+Research reports and benchmark datasets should be cited only within their stated scope. See the individual repository README and SECURITY policy for assumptions, limitations and licensing.
