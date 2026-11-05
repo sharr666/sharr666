@@ -4,17 +4,17 @@
 
 ---
 
-## 1. Four-Tier Evidence & Verification Classification (`269` Total Documented Records)
+## 1. Four-Tier Evidence Classification (`269` Recorded Entries; Not Deduplicated)
 
-To maintain strict evidentiary transparency, all `269` documented learning records are partitioned into four distinct verification tiers:
+For transparency, entries are grouped into four evidence categories. Counts are recorded ledger entries; issuer-side validity and cross-tier deduplication have not been independently established in this file.
 
 | Tier | Classification | Count | Verification Basis |
 | :--- | :--- | :---: | :--- |
-| **Tier 1** | **Verified Professional Certificates & Specializations** | `21` | Multi-course Coursera Professional Certificates & Specializations with 12-character alphanumeric verification IDs |
-| **Tier 2** | **Individual Course Credential IDs Recorded** | `113` | Individual Coursera (`101`), Microsoft/LinkedIn Learning (`8`), Credly (`1`), Yektanet (`2`), and Maktabkhooneh (`1`) certificates with recorded IDs / SHA-256 hashes (`21 + 101 = 122` total LinkedIn MHTML records + `12` regional/Credly records) |
+| **Tier 1** | **Documented Professional Certificates & Specializations** | `21` | Credential IDs are recorded; validate current status directly with the issuer |
+| **Tier 2** | **Individual Course Credential IDs Recorded** | `113` | 101 Coursera + 8 Microsoft/LinkedIn Learning + 1 Credly + 2 Yektanet + 1 Maktabkhooneh = 113 entries with recorded identifiers |
 | **Tier 3** | **Modular Course Completions** | `104` | Completed technical modules across Coursera transcript (`31`) and Microsoft Learn Security & AI paths (`M-001` to `M-073`: `SC-100`, `SC-200`, `AI-900`, `Defender XDR`, `Entra`, `Azure ML`) |
 | **Tier 4** | **Platform Skill Badges** | `31` | Google Cloud Skills Boost & Google DeepMind badges (`G-001` to `G-031`: `Small Language Models`, `Vertex AI MLOps`, `Gemini Security`) |
-| **Total** | **All Documented Records** | **`269`** | **`21 + 113 + 104 + 31 = 269`** |
+| **Total** | **Recorded Entries Across Categories** | **`269`** | **`21 + 113 + 104 + 31 = 269`; not a deduplicated unique-credential count** |
 
 ---
 
@@ -46,7 +46,10 @@ To maintain strict evidentiary transparency, all `269` documented learning recor
 
 ---
 
-## 3. Tier 2: Full Itemized Ledger of `122` Recorded LinkedIn Certificates (with Exact Credential IDs)
+## 3. Itemized Credential Index (`122` Table Entries; Cross-Tier Overlap Exists)
+
+> **Counting note:** This 122-entry index is a reference ledger, not 122 unique Tier-2 credentials. Rows 103–117 summarize master certificates already represented in Tier 1, and some credential identifiers recur across category summaries. The 269 figure is the sum of the four declared category counts, not an issuer-verified or globally deduplicated total.
+
 
 | # | Course / Certificate Title | Issuer / Platform | Date | Credential ID / Hash |
 | :- | :--- | :--- | :---: | :--- |
