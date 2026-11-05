@@ -1,24 +1,21 @@
 # Mehrdad Poorhassan (Dr. Metal)
-### AI Systems Architecture & LLM Security Engineering
-*Research · Architecture · Implementation · Reproducible Validation*
+### AI Systems Architecture · LLM Security · Prompt Engineering
+*Research · System Design · Secure Implementation · Reproducible Evaluation*
 
 ---
 
-## Research and engineering pillars
+## Research and engineering
 
-| Pillar | Repository | Current implementation and evidence |
+| Focus | Repository | Scope and evidence |
 |---|---|---|
-| **LLM Security Engineering** | [llm-security-and-streaming-benchmarks](https://github.com/sharr666/llm-security-and-streaming-benchmarks) | Omega-Stack v2.2 heuristic RAG quarantine prototype; runtime-injected HMAC verification; pattern-based L1-L4 detectors; 20 hand-authored smoke fixtures. The reported fixture score is not a generalization or production-security claim. Streaming examples are separate; the Parquet sample materializes each shard in memory. |
-| **Declarative Prompt Systems** | [declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems) | Typed AST validation, JSON-quoted canonical prompt IR, full SHA-256 fingerprint, exact-record split overlap checks, and bounded in-process memory stores. Five profile labels currently share one prompt grammar; semantic leakage and general contradiction reasoning are not solved. |
-| **Quantitative Systems** | [autonomous-crypto-futures-agent](https://github.com/sharr666/autonomous-crypto-futures-agent) | OHLCV indicators, approximate bar-range Volume Profile, and a one-bar paper simulation with next-bar-open entry, ATR stop, position fraction and drawdown control. The bundled run uses synthetic data and is not evidence of market performance. |
+| **LLM Security & Adversarial Evaluation** | [llm-security-and-streaming-benchmarks](https://github.com/sharr666/llm-security-and-streaming-benchmarks) | Experimental RAG-input quarantine, runtime-injected HMAC verification, heuristic prompt-injection indicators, streaming demonstrations and multilingual security research notes. The included 20 hand-authored fixtures are smoke tests, not a statistically representative security benchmark. |
+| **Declarative Prompt Compilation & Agentic Systems** | [declarative-prompt-compilation-and-agentic-systems](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems) | Typed prompt signatures, AST validation, deterministic JSON-quoted intermediate representation, SHA-256 fingerprints, exact-record split checks and bounded in-process memory prototypes. The five labels are framing profiles, not independent framework backends. |
 
-## Identifiers and profiles
-
-The following identifiers and external profile names are listed by the account owner. Their issuer-side validity and current status have not been independently audited in this repository review.
+## Professional identifiers
 
 - ORCID: `0009-0004-9269-3912`
 - Zenodo records listed in project documentation: `10.5281/zenodo.23758690` and `10.5281/zenodo.23762055`
-- Professional profiles: [LinkedIn](https://www.linkedin.com/in/dr-metal) · [Credly](https://credly.com/users/mehrdad-poorhassan)
+- [LinkedIn](https://www.linkedin.com/in/dr-metal) · [Credly](https://credly.com/users/mehrdad-poorhassan)
 
 ## Credentials and learning records
 
@@ -28,10 +25,12 @@ The credential ledger reports **269 recorded entries** across four evidence cate
 - 104 modular course completions
 - 31 platform skill badges
 
-These are ledger counts, not an independently verified count of unique credentials. The accompanying 122-entry index includes cross-tier/master-certificate overlap; it must not be interpreted as 122 unique Tier-2 credentials. See [CREDENTIALS_PORTFOLIO.md](./CREDENTIALS_PORTFOLIO.md) for the itemized records and verification identifiers.
+These are recorded entries, not an independently verified count of unique credentials. The 122-entry index contains cross-tier overlap. See [CREDENTIALS_PORTFOLIO.md](./CREDENTIALS_PORTFOLIO.md) for the itemized ledger.
 
-## Reproducibility and limitations
+## Validation and limitations
 
-Each engineering repository includes a GitHub Actions workflow. Passing CI means the configured syntax, unit and smoke tests passed at that commit; it does not constitute independent scientific validation, security certification, or production readiness.
+CI success confirms only the configured tests at the tested commit. It does not constitute independent scientific validation, security certification, or production readiness. Research claims and benchmark results should be interpreted only within the limits documented in each repository.
 
-Research reports and benchmark datasets should be cited only within their stated scope. See the individual repository README and SECURITY policy for assumptions, limitations and licensing.
+## Current portfolio scope
+
+This profile is focused on AI systems architecture, LLM security, prompt engineering, software systems and research.
