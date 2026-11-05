@@ -28,7 +28,7 @@ The credential ledger reports **269 recorded entries** across four evidence cate
 - 104 modular course completions
 - 31 platform skill badges
 
-These are ledger counts, not an independently verified count of unique credentials. The accompanying 122-entry index includes cross-tier/master-certificate overlap; it must not be interpreted as 122 unique Tier-2 credentials. See [CREDENTIALS.md](./CREDENTIALS.md) for the itemized records and verification identifiers.
+These are ledger counts, not an independently verified count of unique credentials. The accompanying 122-entry index includes cross-tier/master-certificate overlap; it must not be interpreted as 122 unique Tier-2 credentials. See [CREDENTIALS_PORTFOLIO.md](./CREDENTIALS_PORTFOLIO.md) for the itemized records and verification identifiers.
 
 ## Reproducibility and limitations
 
