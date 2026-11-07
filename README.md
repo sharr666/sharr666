@@ -10,8 +10,8 @@
 - **Scientific Society & Journal Memberships:**
   - **American Chemical Society (ACS):** Community Associate (`dr.metal`)
   - **CODATA Data Science Journal:** Registered Researcher (`sharr666`)
-  - **Open Science Framework (Center for Open Science — COS / OSF):** `23uab` (Linked to ORCID `0009-0004-9269-3912`)
-- **Professional Networks:** LinkedIn (`in/dr-metal`) · X (`@Dr_Metal`) · Academia (`DrMetal1`) · Kaggle (`drmetal`) · Hugging Face (`@Dr-Metal`)
+    - **Open Science Framework (Center for Open Science — COS / OSF):** Verified Researcher Profile (`23uab`, linked to ORCID `0009-0004-9269-3912`)
+    - ofessional Networks:** LinkedIn (`in/dr-metal`) · X (`@Dr_Metal`) · Academia (`DrMetal1`) · Kaggle (`drmetal`) · Hugging Face (`@Dr-Metal`)
 
 ---
 
