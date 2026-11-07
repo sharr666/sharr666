@@ -26,7 +26,7 @@
 ## 3. Preprints & Technical Reports
 - **[Preprint / Technical Report]** *Isolated Multi-Document Query Logic and Defense-in-Depth Architecture Against Distributed Indirect Prompt Injection in Agentic Workflows* (Oct 2026) — **CERN Zenodo DOI:** `10.5281/zenodo.23758690` (`papers/OVERVIEW.md` in `llm-security-and-streaming-benchmarks`)
 - **[Preprint / Technical Report]** *From Heuristic Prompting to Declarative Compilation and Multi-Agent Cognitive Orchestration: A Systematic Survey* (Oct 2026) — **CERN Zenodo DOI:** `10.5281/zenodo.23762055` (`declarative-prompt-compilation-and-agentic-systems`)
-- **[Preprint / Technical Monograph]** *Self-Intertwined Deconstructed Philoprompts: Morphemic Steganography, Non-BMP Ancient Script Tokenization, and Out-of-Distribution Alignment Stress-Testing in LLMs* (`Philoprompts-v1.0`, Nov 2026) — **File:** `PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md` in `llm-security-and-streaming-benchmarks`
+- **[Treatise & Semiotic Codex] The Semiotic Ontology Codex & The Art of the Philoprompt: Linguistic Alchemy, 8 Conceptual Macro-Clusters, Non-BMP Ancient-Script Tokenization, and Latent-Space Topology in LLMs** (*Philoprompts-v1.0*, Nov 2026) — File: [`PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md`](https://github.com/sharr666/llm-security-and-streaming-benchmarks/blob/main/PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md)
 
 ---
 
