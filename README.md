@@ -28,7 +28,8 @@
 - **[Preprint / Technical Report]** *Isolated Multi-Document Query Logic and Defense-in-Depth Architecture Against Distributed Indirect Prompt Injection in Agentic Workflows* (Oct 2026) — **CERN Zenodo DOI:** `10.5281/zenodo.23758690` (`papers/OVERVIEW.md` in `llm-security-and-streaming-benchmarks`)
 - **[Preprint / Technical Report]** *From Heuristic Prompting to Declarative Compilation and Multi-Agent Cognitive Orchestration: A Systematic Survey* (Oct 2026) — **CERN Zenodo DOI:** `10.5281/zenodo.23762055` (`declarative-prompt-compilation-and-agentic-systems`)
 - **[Treatise & Semiotic Codex] The Semiotic Ontology Codex & The Art of the Philoprompt: Linguistic Alchemy, 8 Conceptual Macro-Clusters, Non-BMP Ancient-Script Tokenization, and Latent-Space Topology in LLMs** (*Philoprompts-v1.0*, Nov 2026) — File: [`PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md`](https://github.com/sharr666/llm-security-and-streaming-benchmarks/blob/main/PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md)
-
+-![Deconstructed Philoprompts Architecture](https://lh3.googleusercontent.com/d/1NKIsjARhDKy8AOYyaoDMGpxa89oClPGU)
+> **Figure 1 — Deconstructed Philoprompts Architecture (`OIAG-285`):** Core Mechanics of Intertwining (Portmanteau Oymoronic Fusion, Morphemic Etymological Splitting, Mathematical Philosophical Formulations) and 5-Layer Executable Meta-Prompt Block Framework (2752×1536 Lossless PNG).
 ---
 
 ## 4. Selected Certifications (7 Core Verified Credentials)
