@@ -10,8 +10,8 @@
 - **Scientific Society & Journal Memberships:**
   - **American Chemical Society (ACS):** Community Associate (`dr.metal`)
   - **CODATA Data Science Journal:** Registered Researcher (`sharr666`)
-    - **Open Science Framework (Center for Open Science — COS / OSF):** Verified Researcher Profile (`23uab`, linked to ORCID `0009-0004-9269-3912`)
-    - Professional Networks:** LinkedIn (`in/dr-metal`) · X (`@Dr_Metal`) · Academia (`DrMetal1`) · Kaggle (`drmetal`) · Hugging Face (`@Dr-Metal`)
+- **Open Science Framework (OSF):** [Researcher Profile (osf.io/23uab)](https://osf.io/23uab/) · [Archival Project (osf.io/y8j9g)](https://osf.io/y8j9g/) (`DOI: 10.17605/OSF.IO/Y8J9G`)
+    - Professional Networks:** LinkedIn (`in/dr-metal`) · X (`@Dr_Metal`) · Academia (`DrMetal1`) · Kaggle (`drmetal`) · Hugging Face (`@Dr-Metal` · [OSF](https://osf.io/23uab/))
 
 ---
 
@@ -19,8 +19,8 @@
 
 | Repository | Scope & Reproducible Metrics | Archival DOI / License |
 | :--- | :--- | :--- |
-| **`llm-security-and-streaming-benchmarks`** | 6-Layer **Omega-Stack** RAG quarantine gate (`OIAG-285`), constant-memory $O(1)$ streaming corpus generators (`peak heap ≈ 3.07 MB` on Linux x86_64, Python 3.11 `tracemalloc` — see repo `Reproduce` section), and **Philoprompts-v1.0**. | `DOI: 10.5281/zenodo.23758690`<br>`Apache-2.0` / `CC BY 4.0` |
-| **`declarative-prompt-compilation-and-agentic-systems`** | Deterministic AST/schema prompt compiler (`PICCO`, `COAST`, `CARE`, `GCT`, `KERNEL` — `0.033–0.043 ms/call`, `peak heap ≈ 1.81 KB`), discrete APO optimizer, and 5-Tier Cognitive Memory substrate. | `DOI: 10.5281/zenodo.23762055`<br>`Apache-2.0` / `CC BY 4.0` |
+| **`llm-security-and-streaming-benchmarks`** | 6-Layer **Omega-Stack** RAG quarantine gate (`OIAG-285`), constant-memory $O(1)$ streaming corpus generators (`peak heap ≈ 3.07 MB` on Linux x86_64, Python 3.11 `tracemalloc` — see repo `Reproduce` section), and **Philoprompts-v1.0**. | `DOI: 10.5281/zenodo.23758690 · [OSF: 10.17605/OSF.IO/Y8J9G](https://osf.io/y8j9g/)`<br>`Apache-2.0` / `CC BY 4.0` |
+| **`declarative-prompt-compilation-and-agentic-systems`** | Deterministic AST/schema prompt compiler (`PICCO`, `COAST`, `CARE`, `GCT`, `KERNEL` — `0.033–0.043 ms/call`, `peak heap ≈ 1.81 KB`), discrete APO optimizer, and 5-Tier Cognitive Memory substrate. | `DOI: 10.5281/zenodo.23762055` · [OSF: 10.17605/OSF.IO/Y8J9G](https://osf.io/y8j9g/)br>`Apache-2.0` / `CC BY 4.0` |
 
 ---
 
