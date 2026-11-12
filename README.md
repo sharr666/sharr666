@@ -1,12 +1,15 @@
 # Mehrdad Poorhassan (Dr. Metal)
 
+[![DOI](https://zenodo.org/badge/439969326.svg)](https://doi.org/10.5281/zenodo.24153117)
+
 **Independent AI Systems Architect & LLM Security Researcher**
 
 ## 1. Academic & Scientific Profiles
 
 - **ORCID iD:** [`0009-0004-9269-3912`](https://orcid.org/0009-0004-9269-3912)
 - **arXiv Verified Author:** `Dr.Metal` (Primary Categories: `cs.AI`, `cs.CL`, `cs.CR`)
-- **Archival DOIs:** [CERN Zenodo `10.5281/zenodo.23758690`](https://zenodo.org/records/23758690) · [COS / OSF `10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G) · `10.5281/zenodo.23762055` *(archival registration pending)*
+- **Zenodo DOI for this GitHub profile repository (`sharr666/sharr666`):** [`10.5281/zenodo.24153117`](https://doi.org/10.5281/zenodo.24153117) · [DOI badge](https://zenodo.org/badge/439969326.svg)
+- **Other Archival DOIs:** [CERN Zenodo `10.5281/zenodo.23758690`](https://zenodo.org/records/23758690) · [COS / OSF `10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G) · `10.5281/zenodo.23762055` *(archival registration pending)*
 - **Scientific Society & Journal Memberships:**
   - **American Chemical Society (ACS):** Community Associate (`dr.metal`)
   - **CODATA Data Science Journal:** Registered Researcher (`sharr666`)
