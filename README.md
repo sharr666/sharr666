@@ -19,7 +19,6 @@
 | :--- | :--- | :--- |
 | **[`llm-security-and-streaming-benchmarks`](https://github.com/sharr666/llm-security-and-streaming-benchmarks)** | 6-Layer **Omega-Stack** RAG quarantine gate (`OIAG-285`), constant-memory $O(1)$ streaming corpus generators (`peak heap ≈ 3.07 MB` on Linux x86_64, Python 3.11 `tracemalloc` — see repo `Reproduce` section), and **Philoprompts-v1.0**. | [`DOI: 10.5281/zenodo.23758690`](https://zenodo.org/records/23758690)<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
 | **[`declarative-prompt-compilation-and-agentic-systems`](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems)** | Deterministic AST/schema prompt compiler (`PICCO`, `COAST`, `CARE`, `GCT`, `KERNEL` — `0.033–0.043 ms/call`, `peak heap ≈ 1.81 KB`), discrete APO optimizer, and 5-Tier Cognitive Memory substrate. | `DOI: 10.5281/zenodo.23762055` *(pending)*<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
-| **[`autonomous-crypto-futures-agent`](https://github.com/sharr666/autonomous-crypto-futures-agent)** | Read-only / signal-telemetry quantitative market-microstructure engine, Wilder's RMA (`ATR` / `RSI`), and vectorized Volume Profile (`POC` / `VAH` / `VAL`, `peak heap ≈ 82.71 KB` on 10,000 bars). | `MIT` / `Apache-2.0` |
 
 ## 3. Preprints & Technical Reports
 
