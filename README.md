@@ -32,7 +32,7 @@
 
 ## 4. Selected Certifications (7 Core Verified Credentials)
 
-Unified count across all platforms: **269 total documented records** (**122 verifiable certificates with Credential IDs** + **147 modular course completions & skill badges**; full ledger in [`CREDENTIALS.md`](./CREDENTIALS.md)):
+Unified count across all platforms: **269 total documented records** (**126 verifiable certificates with Credential IDs** + **143 modular course completions & skill badges**; full ledger in [`CREDENTIALS.md`](./CREDENTIALS.md)):
 
 | Certification | Issuer | Date | Credential ID (Coursera / Issuer Verify) |
 | :--- | :--- | :--- | :--- |
