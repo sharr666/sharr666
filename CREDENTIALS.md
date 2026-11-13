@@ -8,7 +8,7 @@
 
 | Registry Segment | Platform / Issuer Scope | Verified Count | Verification Mechanism |
 | :--- | :--- | :---: | :--- |
-| **Part I: ID-Verified Certificates** | Coursera (111: 4 Professional Certs, 17 Specializations, 90 Courses), LinkedIn Learning (7), Credly/IBM (1), Yektanet (2), Maktabkhooneh (1) | **122** | Direct Public Issuer Verify URLs |
+| **Part I: ID-Verified Certificates** | Coursera (115111: 4 Professional Certs, 17 Spec4ializations, 90 Courses), LinkedIn Learning (7), Credly/IBM (1), Yektanet (2), Maktabkhooneh (1) | **122** | Direct Public Issuer Verify URLs |
 | **Part II-A: Google Skills Badges** | Google Cloud Skills Boost, Google Cloud, DeepMind (`G-001`–`G-031`) | **31** | Official Skill Badges & Transcript |
 | **Part II-B: Microsoft Learn** | Microsoft Learn Modules, Learning Paths & Plans (`M-001`–`M-073`) | **73** | Official Transcript Registry |
 | **Part II-C: Coursera Data Release** | Completed Courses (`C-001`–`C-132`, Official Grades `70.00%`–`100.00%`) + 21 Multi-Course Credentials | **153** | Coursera Official Data Export & Verify URLs |
