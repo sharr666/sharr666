@@ -10,7 +10,7 @@
 - **Verified Contact Email:** `dr.metal69@gmail.com`
 - **arXiv Verified Author:** `Dr.Metal` (Primary Categories: `cs.AI`, `cs.CL`, `cs.CR`)
 - **Zenodo DOI for this GitHub profile repository (`sharr666/sharr666`):** [`10.5281/zenodo.24153117`](https://doi.org/10.5281/zenodo.24153117) · [DOI badge](https://zenodo.org/badge/439969326.svg)
-- **Other Archival DOIs:** [CERN Zenodo `10.5281/zenodo.23758690`](https://zenodo.org/records/23758690) · [COS / OSF `10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G) · `10.5281/zenodo.23762055` *(archival registration pending)* · CERN Zenodo `10.5281/zenodo.24238946`
+- **Other Archival DOIs:** [CERN Zenodo `10.5281/zenodo.23758690`](https://zenodo.org/records/23758690) · [COS / OSF `10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G) · `10.5281/zenodo.23762055` *(archival registration pending)* · CERN Zenodo [`10.5281/zenodo.24238946`](https://zenodo.org/records/24238946)
 - **Scientific Society & Journal Memberships:**
   - **American Chemical Society (ACS):** Community Associate (`dr.metal`)
   - **CODATA Data Science Journal:** Registered Researcher (`sharr666`)
@@ -43,7 +43,7 @@
 - **[Preprint / Technical Report]** *Isolated Multi-Document Query Logic and Defense-in-Depth Architecture Against Distributed Indirect Prompt Injection in Agentic Workflows* (Oct 2026) — **CERN Zenodo DOI:** [`10.5281/zenodo.23758690`](https://zenodo.org/records/23758690) ([`papers/OVERVIEW.md`](https://github.com/sharr666/llm-security-and-streaming-benchmarks/blob/main/papers/OVERVIEW.md) in `llm-security-and-streaming-benchmarks`)
 - **[Preprint / Technical Report]** *From Heuristic Prompting to Declarative Compilation and Multi-Agent Cognitive Orchestration: A Systematic Survey* (Oct 2026) — **CERN Zenodo DOI:** `10.5281/zenodo.23762055` *(archival registration pending)* ([`declarative-prompt-compilation-and-agentic-systems`](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems))
 - **[Preprint / Technical Monograph]** *Self-Intertwined Deconstructed Philoprompts: Morphemic Steganography, Non-BMP Ancient Script Tokenization, and Out-of-Distribution Alignment Stress-Testing in LLMs* (*Philoprompts-v1.0*, Nov 2026) — **COS / OSF DOI:** [`10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G) — File: [`PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md`](https://github.com/sharr666/llm-security-and-streaming-benchmarks/blob/main/PHILOPROMPTS_ANCIENT_SCRIPT_LLM_SECURITY_MONOGRAPH.md)
-- **[Preprint / Technical Report]** *How Ancient Scripts Break Modern Tokenizers: An Empirical Study on 563 Philoprompts* — **CERN Zenodo DOI:** `10.5281/zenodo.24238946` — Dataset: [`Dr-Metal/philoprompts-v1`](https://huggingface.co/datasets/Dr-Metal/philoprompts-v1)
+- **[Preprint / Technical Report]** *How Ancient Scripts Break Modern Tokenizers: An Empirical Study on 563 Philoprompts* — **CERN Zenodo DOI:** [`10.5281/zenodo.24238946`](https://zenodo.org/records/24238946) — Dataset: [`Dr-Metal/philoprompts-v1`](https://huggingface.co/datasets/Dr-Metal/philoprompts-v1)
 - 
 ## 4. Selected Certifications (7 Core Verified Credentials)
 
