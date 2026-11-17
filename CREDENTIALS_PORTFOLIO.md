@@ -46,7 +46,7 @@ For transparency, entries are grouped into four evidence categories. Counts are 
 
 ---
 
-## 3. Itemized Credential Index (`122` Table Entries; Cross-Tier Overlap Exists)
+## 3. Itemized Credential Index (`122` Indexed Records; Rows 103–117 Summarized)
 
 > **Counting note:** This 122-entry index is a reference ledger, not 122 unique Tier-2 credentials. Rows 103–117 summarize master certificates already represented in Tier 1, and some credential identifiers recur across category summaries. The 269 figure is the sum of the four declared category counts, not an issuer-verified or globally deduplicated total.
 
