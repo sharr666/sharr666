@@ -1,3 +1,7 @@
+> **Legacy-ledger notice (19 Nov 2026):** This file contains inconsistent category totals, duplicate references, and malformed entries. It is not the authoritative portfolio summary. Use [`CREDENTIALS_PORTFOLIO.md`](./CREDENTIALS_PORTFOLIO.md) for the current counting method and itemized index. No credential in either file should be described as issuer-verified unless its issuer verification page has been checked directly.
+
+---
+
 # Verified Academic & Technical Credentials Registry — Mehrdad Poorhassan (Dr. Metal)
 
 - **Researcher:** Mehrdad Poorhassan (`@sharr666`)
