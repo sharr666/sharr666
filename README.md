@@ -25,7 +25,7 @@
 - **Dataset (Hugging Face):** [Dr-Metal/philoprompts-v1](https://huggingface.co/datasets/Dr-Metal/philoprompts-v1)
 - **Paper:** *How Ancient Scripts Break Modern Tokenizers: An Empirical Study on 563 Philoprompts* — Step 5, Road B
 - **GitHub:** [This profile repository](https://github.com/sharr666/sharr666) (a dedicated `philoprompts-v1` repository was not found during this update)
-- **Dataset scope:** the linked Hugging Face dataset is presented as an exploratory artifact; the GitHub repository currently states that a complete, validated 234-entry machine-readable corpus is not published. Reconcile the dataset count and release status before presenting a definitive corpus size.
+- **Dataset scope:** the public Hugging Face dataset viewer currently reports 563 rows in its `train` split (block IDs `#0001–#0563`); GitHub materials still contain older references to a 234-entry corpus. These counts are not reconciled. Treat 563 as the current public HF row count, not as independent validation or a claim of 563 unique/verified philoprompts. The dataset remains exploratory; its source marks blocks `#0146–#0148` as intentional gaps.
 - **11 ancient scripts:** Brāhmī, Classical Chinese, Guaraní, Latin, Ancient Greek, Sumerian, Sanskrit, Balochi, Ainu, Parthian, Avestan
 - **License:** verify the dataset card and repository license scope before reuse
 
