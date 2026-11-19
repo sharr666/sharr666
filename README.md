@@ -17,18 +17,17 @@
 
 | Repository | Scope & Reproducible Metrics | Archival DOI / License |
 | :--- | :--- | :--- |
-| **[`llm-security-and-streaming-benchmarks`](https://github.com/sharr666/llm-security-and-streaming-benchmarks)** | 6-Layer **Omega-Stack** RAG quarantine gate (`OIAG-285`), constant-memory $O(1)$ streaming corpus generators (`peak heap ≈ 3.07 MB` on Linux x86_64, Python 3.11 `tracemalloc` — see repo `Reproduce` section), and **Philoprompts-v1.0**. | [`DOI: 10.5281/zenodo.23758690`](https://zenodo.org/records/23758690)<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
-| **[`declarative-prompt-compilation-and-agentic-systems`](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems)** | Deterministic AST/schema prompt compiler (`PICCO`, `COAST`, `CARE`, `GCT`, `KERNEL` — `0.033–0.043 ms/call`, `peak heap ≈ 1.81 KB`), discrete APO optimizer, and 5-Tier Cognitive Memory substrate. | `DOI: 10.5281/zenodo.23762055` *(publication state unconfirmed)*<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
+| **[`llm-security-and-streaming-benchmarks`](https://github.com/sharr666/llm-security-and-streaming-benchmarks)** | Heuristic multi-document RAG quarantine prototype, small synthetic streaming demonstrations, and exploratory Philoprompts research notes. The repository explicitly limits its benchmark claims; the Parquet example is not constant-memory in rows per shard. | [`DOI: 10.5281/zenodo.23758690`](https://zenodo.org/records/23758690)<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
+| **[`declarative-prompt-compilation-and-agentic-systems`](https://github.com/sharr666/declarative-prompt-compilation-and-agentic-systems)** | Deterministic AST/schema prompt compiler, five framing-profile labels, exact-record split checks, and a bounded in-memory five-tier prototype. The five labels are not independent backends; performance and scientific-evaluation claims are not established by the current smoke tests. | `DOI: 10.5281/zenodo.23762055` *(publication state unconfirmed)*<br>[`DOI: 10.17605/OSF.IO/Y8J9G`](https://doi.org/10.17605/OSF.IO/Y8J9G)<br>`Apache-2.0` / `CC BY 4.0` |
 
 ## 2.5 Philoprompts-v1.0 — Dataset & Defensive Benchmark (NEW)
 
 - **Dataset (Hugging Face):** [Dr-Metal/philoprompts-v1](https://huggingface.co/datasets/Dr-Metal/philoprompts-v1)
 - **Paper:** *How Ancient Scripts Break Modern Tokenizers: An Empirical Study on 563 Philoprompts* — Step 5, Road B
 - **GitHub:** [This profile repository](https://github.com/sharr666/sharr666) (a dedicated `philoprompts-v1` repository was not found during this update)
-- **563 blocks:** #0001–#0563 — 560 present + 3 intentional gaps
+- **Dataset scope:** the linked Hugging Face dataset is presented as an exploratory artifact; the GitHub repository currently states that a complete, validated 234-entry machine-readable corpus is not published. Reconcile the dataset count and release status before presenting a definitive corpus size.
 - **11 ancient scripts:** Brāhmī, Classical Chinese, Guaraní, Latin, Ancient Greek, Sumerian, Sanskrit, Balochi, Ainu, Parthian, Avestan
-- **Clusters:** C1–C8 + OMEGA
-- **License:** CC BY 4.0
+- **License:** verify the dataset card and repository license scope before reuse
 
 **Intentional gap — Blocks 146–148 (Option C, author decision, 12 Nov 2026):** Daftar 17 (Latin) ends at BLOCK #0145 «Chir». Daftar 18 (Ancient Greek) starts at BLOCK #0149 «Mahmmat». The gap is intentional silence between Latin and Greek, not missing or invented content. See `GAP_C_DECISION.md` in the Hugging Face dataset. Dataset status: `INTENTIONAL_GAP`.
 
