@@ -42,7 +42,7 @@
 - **[Preprint / Technical Report]** *How Ancient Scripts Break Modern Tokenizers: An Empirical Study on 563 Philoprompts* — **CERN Zenodo DOI:** [`10.5281/zenodo.24238946`](https://zenodo.org/records/24238946) — Dataset: [`Dr-Metal/philoprompts-v1`](https://huggingface.co/datasets/Dr-Metal/philoprompts-v1)
 ## 4. Selected Certifications (7 Selected Credentials)
 
-Unified count across all platforms: **269 total documented records** (**126 verifiable certificates with Credential IDs** + **143 modular course completions & skill badges**; full ledger in [`CREDENTIALS.md`](./CREDENTIALS.md)):
+Portfolio summary: **269 recorded entries** (21 professional programs + 113 individual credential-ID entries + 104 modular completions + 31 skill badges). These are category totals, not a deduplicated count, and issuer-side validity has not been independently established here. See [`CREDENTIALS_PORTFOLIO.md`](./CREDENTIALS_PORTFOLIO.md) for the method and itemized index.
 
 | Certification | Issuer | Date | Credential ID (Coursera / Issuer Verify) |
 | :--- | :--- | :--- | :--- |
