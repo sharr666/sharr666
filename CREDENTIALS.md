@@ -38,7 +38,7 @@ The figures and issuer-verification descriptions in the original ledger were int
 20. **CapCut for Beginners Specialization** — Skillshare / Coursera (Oct 2025) · ID: [`JHSXBK18THLW`](https://coursera.org/verify/specialization/JHSXBK18THLW)
 21. **Start Your Freelance Video Editing Career Specialization** — Skillshare / Coursera (Oct 2025) · ID: [`7S1L7Q97LO9J`](https://coursera.org/verify/specialization/7S1L7Q97LO9J)
 
-## 3. Selected Individual Course & Platform Certificates (Verified IDs & Grades)
+## 3. Selected Individual Course & Platform Entries (Recorded IDs and Grade Claims)
 
 - **Career Essentials in Generative AI** — Microsoft & LinkedIn (`9e9e0493783872d51508aec1fc079086464e6bb2a687f0d84dd374ce58e05627`)
 - **Ethical Hacking with Kali Linux** — IBM / Credly Badge (`6ed7260c-f946-4d5e-8b9f-ad47eb516a45` · Coursera ID: `GT8WRMGKLUR1`, Grade: `100.00%`)
