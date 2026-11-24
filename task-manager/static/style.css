@@ -106,3 +106,16 @@ button.danger:hover { background: #b91c1c; }
 .task.editing .task-actions { justify-content: flex-start; }
 
 #empty-msg { color: #64748b; text-align: center; padding: 24px 0; }
+
+@media (max-width: 520px) {
+  #app { padding: 12px 10px 40px; }
+  .card { padding: 14px; }
+  button { min-height: 44px; }
+  .topbar { flex-direction: column; align-items: stretch; gap: 10px; }
+  .topbar-side { justify-content: space-between; }
+  .task-form-row { flex-direction: column; }
+  .task-form-row button { width: 100%; }
+  .task { flex-wrap: wrap; }
+  .task-actions { width: 100%; }
+  .task-actions button { flex: 1; }
+}

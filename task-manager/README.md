@@ -21,6 +21,24 @@ python3 app.py
 
 Environment variables: `PORT` (default 8000), `HOST` (default 127.0.0.1), `TASKMAN_DB`.
 
+## Mobile (PWA)
+
+The UI is responsive (single-column layout and 44px touch targets under 520px) and the app is a
+Progressive Web App: `manifest.webmanifest` + SVG icon + service worker (`sw.js`) cache the shell
+so it loads fast and works offline; API calls fall back to a 503 JSON error when offline.
+
+To use it on a phone on the same Wi-Fi, run on your own machine:
+
+```bash
+HOST=0.0.0.0 PORT=8000 python3 app.py
+# then open http://<your-computer-ip>:8000 on the phone
+```
+
+In Chrome/Edge on Android use "Add to Home screen"; on iOS Safari use Share → "Add to Home Screen".
+Note: installing the PWA requires HTTPS or localhost; over plain LAN HTTP the app still works in
+the browser, it just cannot be installed to the home screen. The server binds to `127.0.0.1` by
+default — only set `HOST=0.0.0.0` on a network you trust.
+
 ## Test
 
 ```bash

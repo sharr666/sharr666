@@ -140,6 +140,17 @@ class ApiTest(unittest.TestCase):
         status, body = self.request("GET", "/static/../app.py")
         self.assertEqual(status, 404)
 
+    def test_pwa_assets_served(self):
+        import urllib.request as ur
+        for path in ("/static/manifest.webmanifest", "/static/sw.js", "/static/icon.svg"):
+            with ur.build_opener().open(self.base + path) as res:
+                self.assertEqual(res.status, 200, path)
+        with ur.build_opener().open(self.base + "/static/manifest.webmanifest") as res:
+            manifest = json.loads(res.read().decode("utf-8"))
+        self.assertEqual(manifest["start_url"], "/")
+        self.assertEqual(manifest["display"], "standalone")
+        self.assertEqual(manifest["dir"], "rtl")
+
 
 if __name__ == "__main__":
     unittest.main()
