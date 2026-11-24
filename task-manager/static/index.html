@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>مدیر کارها</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main id="app">
+    <section id="auth-view" class="card hidden">
+      <h1>مدیر کارها</h1>
+      <div class="tabs">
+        <button id="tab-login" class="tab active" type="button">ورود</button>
+        <button id="tab-register" class="tab" type="button">ثبت‌نام</button>
+      </div>
+      <form id="auth-form">
+        <label>نام کاربری
+          <input id="username" required minlength="3" maxlength="32" autocomplete="username">
+        </label>
+        <label>رمز عبور
+          <input id="password" type="password" required minlength="6" maxlength="128" autocomplete="current-password">
+        </label>
+        <p id="auth-error" class="error"></p>
+        <button type="submit" id="auth-submit">ورود</button>
+      </form>
+    </section>
+
+    <section id="tasks-view" class="hidden">
+      <header class="topbar card">
+        <h1>کارهای من</h1>
+        <div class="topbar-side">
+          <span id="me"></span>
+          <button id="logout-btn" type="button">خروج</button>
+        </div>
+      </header>
+
+      <form id="task-form" class="card">
+        <input id="task-title" placeholder="عنوان کار..." required maxlength="200">
+        <div class="task-form-row">
+          <select id="task-priority">
+            <option value="low">اولویت کم</option>
+            <option value="normal" selected>اولویت متوسط</option>
+            <option value="high">اولویت زیاد</option>
+          </select>
+          <input id="task-due" type="date" title="تاریخ سررسید">
+          <button type="submit">افزودن کار</button>
+        </div>
+        <textarea id="task-desc" placeholder="توضیحات (اختیاری)" rows="2"></textarea>
+      </form>
+
+      <p id="tasks-error" class="error"></p>
+      <p id="empty-msg" class="hidden">هنوز کاری ثبت نکرده‌ای.</p>
+      <ul id="task-list"></ul>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>
