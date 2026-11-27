@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this profile or research index, please cite it as below."
+type: dataset
+title: "Mehrdad Poorhassan (Dr. Metal) — Academic Profile & Research Registry"
+version: 1.0.1
+doi: 10.5281/zenodo.24153117
+date-released: 2026-11-12
+license: CC-BY-4.0
+authors:
+  - family-names: "Poorhassan"
+    given-names: "Mehrdad"
+    alias: "Dr. Metal"
+    orcid: "0009-0004-9269-3912"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24153117"
+    description: "CERN Zenodo Profile Archive"
+repository-code: "https://github.com/sharr666/sharr666"
