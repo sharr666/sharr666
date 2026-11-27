@@ -1,6 +1,6 @@
 # Mehrdad Poorhassan (Dr. Metal)
 
-[![DOI](https://zenodo.org/badge/439969326.svg)](https://doi.org/10.5281/zenodo.24153117)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24153117-blue)](https://doi.org/10.5281/zenodo.24153117)
 
 **Independent AI Systems Architect & LLM Security Researcher**
 
